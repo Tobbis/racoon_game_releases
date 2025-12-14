@@ -49,7 +49,7 @@ import threading
 import time
 from typing import Dict, Any
 import base64
-from typing import Optional
+from typing import Optional, List
 from PIL import Image
 import io
 
